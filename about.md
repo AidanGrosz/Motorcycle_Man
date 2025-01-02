@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eletra Glide
-permalink: /ElectraGlide/
+permalink: /about/
 ---
 
 Some information about you!
