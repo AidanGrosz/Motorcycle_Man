@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Eletra Glide
 permalink: /about/
 ---
 
