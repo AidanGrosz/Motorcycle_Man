@@ -1,11 +1,15 @@
 ---
-layout: default
-title: Electra Glide
-permalink: /electra-glide/
+layout: page
+title: Eletra Glide
+permalink: /E-Glide/
 ---
 
-# Electra Glide
+Some information about you!
 
-Welcome to the Electra Glide page!
+### More Information
 
-You can add content about the Electra Glide here.
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
