@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Eletra Glide
+title: About This Website
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Aidan Grosz, a junior at the University of Florida studying Electrical Engineering. Years ago I began working on small engines in an attempt to learn more about them, and little did I know I would find my passion. As a firm beliver in learning through doing I began cracking crank cases open to observe the complex moving parts that keep an engine running. I will be complety honest an admit I never did get that first small engine back totgher perfectly, but those first few engines served as a base for all the knowledge I have now. From there I got into larger engines such as the ones found on cars, my first being a 2001 Ford Mustang. I got it for 900 dollars because the seller said the engine was toast and needed to be replaced. After my diagnositc work I determined the culrpit was a cracked exhaust valve and procceded in pulling the heads, working with a maching shop, and reassembling the engine. This made my first offical job every done on a car being a head job, to put this in presepective this is a $1300+ job done at a local mechanics shop. That mustang also served as a base for my advanced knowlege of the electical workings behind cars because it was riddled with many bad sensors that all had to be independly tested and replaced, all done by myself. As I continued my journey, the work I was doing became more advnaced. I have now worked on all types of engines, including ones found on boats, generators (militaty grade), forklifts, motorcycles, classic cars, desil trucks and many more. My passion is now more focused on building/customizing Harleys from the fround up instead of repair work. This entails knowledge of automotive spray painting, engine/transmission building, and advanced electronics knowledge as I often find my self converting ignition systems. To call what I do a hobby is near an insult as I average 40-50+ hours a week on the projects I am recording, not including the ones in the past which I can assure you I spent more time as I was still learning. Not only am I a business as I now sell my finished projects to fund future ones and still do repairs, but I teach others about mechanics through community outreach. More so everyhting I do is self taught, I never had the privilage to be taught by masters, or the funding of a large club for fancy machinery or tools. I am 100% funded by myself for the benfit of others, and my self via the knowledge I gain. My mission is to now futher my knowlege, and teach others!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aidangorsz@gmail.com](mailto:aidangrosz@gmail.com)
