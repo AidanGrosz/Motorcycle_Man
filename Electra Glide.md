@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Eletra Glide
+title: Electra Glide
 permalink: /E-Glide/
 ---
 
-Some information about you!
+This page will display all my updates with my 2002 Electra Glide
 
-### More Information
+Specs:
+## 88 CI Engine (1450 CC)
+## Twin Cam Engine Model
+## Dry Weight: 788 lbs
+## 5 Speed Transmission
+## Audio System with Full Front Faring
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
