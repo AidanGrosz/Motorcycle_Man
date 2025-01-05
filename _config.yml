@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Aidan Grosz
+name: Motorcycle Mechanics
 
 # Short bio or description (displayed in the header)
 description: A page for those who love the nitty gritty and learning!
@@ -26,7 +26,7 @@ footer-links:
   linkedin: aidan-grosz
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: 
