@@ -1,10 +1,21 @@
 ---
 layout: post
-title: Update and First Post 01/08/2025
+title: Day to Day Updates
 permalink: /test/
 ---
 
+**01/07/2025**
+### Goals:
+- Fix clients 4 wheeler
+- Change condenser fan in clients Miata 
+- Re-sand rear fender for base and clear coat
+### Accomplished:
+- Condensor Fan
+- 4 Wheeler
+- Prep work for sporster build
 
+____________________________________________________________________________________________________________________________________________________________________
+**01/06/2025 Update**
 Hello all viewers, this is the first post of many. The idea of this website is to show you all what I do, which I explain in more detail in the about section. Understand there is a lot that I won't post as the work I do can get very deep. As always, if interested, reach out to me for more information and help with whatever projects you all may be working on!
 
 ### Goals:
