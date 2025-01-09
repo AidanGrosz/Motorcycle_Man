@@ -14,6 +14,14 @@ permalink: /test/
 - 4 Wheeler
 - Prep work for sporster build
 
+![Carb_Bowl](images/carbbowl.png)
+When my client told me his 4-wheeler was having issues when revved up, I knew exactly what it was. An old saying I have been taught to treat as holy is, "It is always the carburetor until it's not." This quote has held true 100% of the time. Getting technical, the carburetor relies on a physical phenomenon called the Venturi effect, in which we can restrict the movement of air to create a low-pressure zone. Doing this allows us to create a vacuum in which we can draw fuel in through tiny little straws we call "jets." As the fuel is pulled, it atomizes, mixes with air, and makes its way to the combustion chamber to be burned. We can have multiple venturis in the carburetor; the main two are first in the throat of the carb and the next at the throttle plate. This then gives us two main circuits: the idle and high-speed circuits. There is a small needle that sits within the main jet (the jet that controls the high-speed circuit) that gives us control over our midrange speeds. Usually, when an engine is running fine at idle but dies or bogs at high RPM, that is because the high-speed circuit is clogged. In the case of this 4-wheeler, the customer allowed the carburetor to sit full of ethanol fuel for over a year, allowing the fuel to solidify into a gel-like substance that can be seen above. This then clogged the jets, leading to the issues they were experiencing. 
+
+![Carb_parts](images/carbparts.png)
+Here is a closer view of all the carburetor parts. As you can see, it's relatively simple. After cleaning and reassembling the carburetor, the 4-wheeler ran smoothly. There was a bit of tuning required with the fuel/air screw that controls the idle mixture, but this was done quickly.
+
+![Carb_parts](images/miata.png)
+Very easy swap job done in less then 30 minuets.
 ____________________________________________________________________________________________________________________________________________________________________
 **01/06/2025 Update**
 Hello all viewers, this is the first post of many. The idea of this website is to show you all what I do, which I explain in more detail in the about section. Understand there is a lot that I won't post as the work I do can get very deep. As always, if interested, reach out to me for more information and help with whatever projects you all may be working on!
