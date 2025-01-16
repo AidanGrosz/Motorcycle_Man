@@ -40,5 +40,23 @@ As You can see from these photos the bike I got was in very rough shape, ruined 
 ![JugsRemoved](images/JugsRemoved.png)
 ![Jugson](images/Jugson.png)
 
-Harleys engines are actually very a very simple design. Your dealing with two seperated cyliner heads, and push rods meaning the labor required to actually do a top end job is very little, why I tend to do them so often. A great advantage of pulling the jugs is 2 things. First you are able to polish the bare alumium fins that sorround the cylinder head and jugs, next you get to replace both the base gasket and head gasket. Evolution Engines were prone to oil leaks around the base gaskets because they were made of paper and as the motor heated up (and the alumium expanded) it would often stretch or even spilt the base gaskets. Twin Cams fixed this by going to a rubber o-ring. Fuel injected Twin Cams are known for running very hot (due to an overly lean mixture) which would often caused warped heads and jugs. I knew this bike ran very lean which is why I wanted to make sure the heads and jugs were still flat,  another main reason for doing the top-end job. 
+Harley engines have a very simple design. They feature two separate cylinder heads and push rods, which means the labor required for a top-end job is relatively minimal—this is one reason I tend to do them so often.
+
+There are two main advantages to pulling the jugs. First, you can polish the bare aluminum fins that surround the cylinder heads and jugs. Second, you can replace both the base gasket and head gasket. Evolution engines were prone to oil leaks around the base gaskets because they were made of paper. As the motor heated up and the aluminum expanded, the gaskets would often stretch or even split. Twin Cam engines addressed this by using a rubber O-ring.
+
+Fuel-injected Twin Cams are known for running hot due to an overly lean mixture, which can cause warped heads and jugs. I knew this bike was running very lean, so I wanted to ensure the heads and jugs were still flat—another key reason for doing the top-end job.
+
+![CompletedEngine](images/CompletedEngined.png)
+
+This is the finished result of the engine, and I’m very happy with how it turned out. I replaced the old, peeling chrome parts with new (to me) ones. I’m still sourcing parts for the exhaust, but aside from that, the engine is ready to be started and broken in.
+
+![roomparts](images/roomparts.png)
+
+As you can see, I live with my work—literally. This is the finished result of all the buffing, restoring that classic Harley Davidson shine.
+
+![shinyish](images/shinyish.png)
+
+Speaking of shine, this is the result of my aluminum polishing. I still have some work to do on my technique, but I’m getting closer to achieving that beautiful mirror-like finish on the aluminum.
+
+As for now, that’s all I have for the Electra Glide project. I don’t have images of redoing the rear suspension, polishing the front forks, or diagnosing the radio system, but those are coming soon. Hopefully, we’ll have this Hog running by the end of January. I’ll go ahead and order the new headers now!
 
