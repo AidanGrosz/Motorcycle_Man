@@ -46,7 +46,7 @@ There are two main advantages to pulling the jugs. First, you can polish the bar
 
 Fuel-injected Twin Cams are known for running hot due to an overly lean mixture, which can cause warped heads and jugs. I knew this bike was running very lean, so I wanted to ensure the heads and jugs were still flat—another key reason for doing the top-end job.
 
-![CompletedEngine](images/CompletedEngined.png)
+![CompletedEngine](images/CompletedEngine.png)
 
 This is the finished result of the engine, and I’m very happy with how it turned out. I replaced the old, peeling chrome parts with new (to me) ones. I’m still sourcing parts for the exhaust, but aside from that, the engine is ready to be started and broken in.
 
