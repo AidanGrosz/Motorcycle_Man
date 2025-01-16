@@ -58,5 +58,5 @@ As you can see, I live with my work—literally. This is the finished result of 
 
 Speaking of shine, this is the result of my aluminum polishing. I still have some work to do on my technique, but I’m getting closer to achieving that beautiful mirror-like finish on the aluminum.
 
-As for now, that’s all I have for the Electra Glide project. I don’t have images of redoing the rear suspension, polishing the front forks, or diagnosing the radio system, but those are coming soon. Hopefully, we’ll have this Hog running by the end of January. I’ll go ahead and order the new headers now!
+As for now, that’s all I have for the Electra Glide project. I don’t have images of redoing the rear suspension, polishing the front forks, bolts, and diagnosing the radio system, but those are coming soon. Hopefully, we’ll have this Hog running by the end of January. I’ll go ahead and order the new headers now!
 
