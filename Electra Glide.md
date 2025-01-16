@@ -31,3 +31,14 @@ Once I resolved the oil pressure problem, I was able to diagnose the rest of the
 But that's not the end of the story. My coworker had no real interest in motorcycles and decided to trade the Harley to me for a 1965 Mustang I was actively restoring. I took the trade and decided to fully restore the motorcycle to its former glory. This included a top-end engine rebuild, new chrome parts, a redesign of the exhaust system, and diagnosing the radio system.
 
 I am now in the final stages of the restoration, polishing aluminum parts, designing the new exhaust system, and troubleshooting the radio system.
+
+![EGlideBefore](images/E-GlideBefore.png)
+![EGlideBefore2](images/E-GlideBefore2.png)
+
+As You can see from these photos the bike I got was in very rough shape, ruined alumium, peeling chrome and dull paint. Being able to "polish a turd" is a HUGE part of motorcycle restoration. To repaint this motorcycle it would take unessecary labor and money that could be avoided with a bit of buffing knowledge. 
+
+![JugsRemoved](images/JugsRemoved.png)
+![Jugson](images/Jugson.png)
+
+Harleys engines are actually very a very simple design. Your dealing with two seperated cyliner heads, and push rods meaning the labor required to actually do a top end job is very little, why I tend to do them so often. A great advantage of pulling the jugs is 2 things. First you are able to polish the bare alumium fins that sorround the cylinder head and jugs, next you get to replace both the base gasket and head gasket. Evolution Engines were prone to oil leaks around the base gaskets because they were made of paper and as the motor heated up (and the alumium expanded) it would often stretch or even spilt the base gaskets. Twin Cams fixed this by going to a rubber o-ring. Fuel injected Twin Cams are known for running very hot (due to an overly lean mixture) which would often caused warped heads and jugs. I knew this bike ran very lean which is why I wanted to make sure the heads and jugs were still flat,  another main reason for doing the top-end job. 
+
