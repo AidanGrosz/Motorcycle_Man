@@ -4,7 +4,7 @@ title: Sportster
 permalink: /sporty/
 ---
 
-This page will display all my updates with my 2002 Electra Glide
+This page will display all my updates with my 2006 Sporster
 
 ### Specs:
 - **1200 CC Engine**
