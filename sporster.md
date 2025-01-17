@@ -46,3 +46,18 @@ I originally intended to stick with the stock pistons and new rings, but tragica
 I invested in the JIMS Piston Ring Installer tool, had the jugs bored out to .005 oversized, and went with a set of Wiseco pistons. I successfully rebuilt my first Harley engine shortly afterward. There was certainly more involved in this project than I can write here, so I’ll dedicate another section to that.
 
 Since then, the only major work I’ve done on the Sportster (apart from simple carburetor rejetting) is a cosmetic overhaul. This includes powder coating all previously powder-coated parts, repainting the bike, and lowering the rear by 3 inches. I’m designing the bike to have a more pronounced bobber look with a lowered stance. I’m also leaving behind my love for black and chrome, opting for a more minimalist paint scheme. This includes a metallic tank and blacked-out rear and front fenders. Additionally, I’m powder coating the pipes flat black to complement the minimalist look. Lastly, I’m chopping the rear fender for that bobber style!
+
+![pistonshown](images/pistonshown.png)
+
+When I was working more on the Sporster I never really took many pictures of the work that was being done, I do have a few photos to show case. This is a great photo of the shiny Wiseco Pistons that were used after the cylinder walls were bored out.
+
+![headmissing](images/headmissing.png)
+
+Another cool picture of the reassembly process, take not of the shiny cooling fins, a staple of all Harley Davidson Motorcycles.
+
+![primary](images/primary.png)
+
+Here is that bulky primary system, you can cleary see the alternator rotor, and clutch basket, this was after I replaced the clutch basket and ring gear with an aftermarket piece.
+
+
+
