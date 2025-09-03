@@ -5,15 +5,15 @@ permalink: /test/
 ---
 **09/02/2025**
 ANDDDDDDD WERE BACK! Hello all, I first must apolgize for my absence over the last few months. Internships + School + Repair Work have all limited my abailty to make lentghy blog postings each day regarding my accomplishments. In order to make up for this lapse in time I will update you all on the happenings.
-##Sporster
+### Sporster:
 -All Major Cosmetic/ design work has been acomplished, with the only regret being the use of such dark colors. While in the sun the "Ghost Pearl" Base coat does pop without direct sunlight the motorcycle looks dull. This is normal for darker base coats, some people enjoy it, others don't.
-##Misc Shop Skills
+### Misc Shop Skills:
 -Major Improvements to my paint booth have been made, including the addition of taped tarps to lower foreign material intrusion as well as lowering the Air entrance to maintain still air where the paint will be hitting the surface. I will also be including the use of a 5000 BTU Air Conditioner system to allow for painting on hotter days. This of course requires fixing an older window unit which will be documented.
 -Picked up Sand Blasting as a new skill as well as all required material.
 -Dialed down on Aluminum Polishing learning the in's and out's required to make spectacular surfaces. Detailed Guide will be posted.
 -Practiced a lot of Painting, dialing down coat thickness, coat skills, and simple tips. All will be posted.
 -Various Community Repairs which often take the majority of my time, will document this process as well.
-##Electra-Glide
+### Electra-Glide:
 -Finished the build and was able to sell it for the asking price!
 **01/07/2025**
 ### Goals:
