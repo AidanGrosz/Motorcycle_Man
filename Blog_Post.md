@@ -6,15 +6,20 @@ permalink: /test/
 **09/02/2025**
 ANDDDDDDD WERE BACK! Hello all, I first must apolgize for my absence over the last few months. Internships + School + Repair Work have all limited my abailty to make lentghy blog postings each day regarding my accomplishments. In order to make up for this lapse in time I will update you all on the happenings.
 ### Sporster:
--All Major Cosmetic/ design work has been acomplished, with the only regret being the use of such dark colors. While in the sun the "Ghost Pearl" Base coat does pop without direct sunlight the motorcycle looks dull. This is normal for darker base coats, some people enjoy it, others don't.
+- All Major Cosmetic/ design work has been acomplished, with the only regret being the use of such dark colors. While in the sun the "Ghost Pearl" Base coat does pop without direct sunlight the motorcycle looks dull. This is normal for darker base coats, some people enjoy it, others don't.
 ### Misc Shop Skills:
--Major Improvements to my paint booth have been made, including the addition of taped tarps to lower foreign material intrusion as well as lowering the Air entrance to maintain still air where the paint will be hitting the surface. I will also be including the use of a 5000 BTU Air Conditioner system to allow for painting on hotter days. This of course requires fixing an older window unit which will be documented.
--Picked up Sand Blasting as a new skill as well as all required material.
--Dialed down on Aluminum Polishing learning the in's and out's required to make spectacular surfaces. Detailed Guide will be posted.
--Practiced a lot of Painting, dialing down coat thickness, coat skills, and simple tips. All will be posted.
--Various Community Repairs which often take the majority of my time, will document this process as well.
+- Major Improvements to my paint booth have been made, including the addition of taped tarps to lower foreign material intrusion as well as lowering the Air entrance to maintain still air where the paint will be hitting the surface. I will also be including the use of a 5000 BTU Air Conditioner system to allow for painting on hotter days. This of course requires fixing an older window unit which will be documented
+- Picked up Sand Blasting as a new skill as well as all required material.
+- Dialed down on Aluminum Polishing learning the in's and out's required to make spectacular surfaces. Detailed Guide will be posted.
+- Practiced a lot of Painting, dialing down coat thickness, coat skills, and simple tips. All will be posted.
+- Various Community Repairs which often take the majority of my time, will document this process as well.
 ### Electra-Glide:
--Finished the build and was able to sell it for the asking price!
+- Finished the build and was able to sell it for the asking price!
+### RECENT EVENTS
+-  I did want to breifly touch on some various projects I am working through at the moment. The first includes WOT issues on a 1985 Merucry 7.5 hp Outboard Motor. This is a 2-stroke that I have had previous experince on before for other clients and one intresting design "flaw" is a removable Venturi in the throat of the carbuerator. In theory this made it easier on the manufacturing team as they wouldn't have to redesign carbs for differnt Horse Power outboards, instead just insert a differnt plastic peice in the same carbuerator. Why this is a flaw is because it breaks and destorys engines. Luckily this didn't happen for this particular clients outboard, instead it has just been loss. Most people mis-diagnose this as a clogged carbuerator when it reality its due to the lack of the venturi to help with atomization at WOT.
+-  Also these particular OutBoards require a closed choke to ease cold starts. The operator must adjust the choke to be fully closed when attempting to start, if even open a sliver there will be issues ----> Hard Starting!
+-  
+
 **01/07/2025**
 ### Goals:
 - Fix clients 4 wheeler
