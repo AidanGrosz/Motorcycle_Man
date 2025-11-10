@@ -3,8 +3,6 @@ layout: post
 title: Day to Day Updates
 permalink: /test/
 ---
-**09/02/2025**
-ANDDDDDDD WERE BACK! Hello all, I first must apolgize for my absence over the last few months. Internships + School + Repair Work have all limited my abailty to make lentghy blog postings each day regarding my accomplishments. In order to make up for this lapse in time I will update you all on the happenings.
 ### Sporster:
 - All Major Cosmetic/ design work has been acomplished, with the only regret being the use of such dark colors. While in the sun the "Ghost Pearl" Base coat does pop without direct sunlight the motorcycle looks dull. This is normal for darker base coats, some people enjoy it, others don't.
 ### Misc Shop Skills:
