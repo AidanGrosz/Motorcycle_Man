@@ -14,7 +14,7 @@ This page will display all my updates with my 2006 Sporster
 
 !<audio autoplay>
     !<source src="https://github.com/AidanGrosz/Motorcycle_Man/raw/master/images/RealGone.mp3" type="audio/mp3">
-   ! Your browser does not support the audio element.
+
 !</audio>
 
 ### Cue Real Gone!
